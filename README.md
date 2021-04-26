@@ -1,12 +1,2 @@
-# CS기본지식
-<br><br><br><br><br>
-
-
-# 자료구조 및 알고리즘
-----
-- ### [Queue](https://github.com/sangwoo24/Algorithm/tree/master/Queue)
-
-
-
-- ### BFS
-- ### DFS
+# CS Study Repo
+- 개발자의 기초 소양을 키우기 위한 CS 공부 Repository
