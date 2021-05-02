@@ -1,6 +1,6 @@
 # REST (Representational State Transfer)
 - 월드 와이드 웹 (World Wide Web a.k.a WWW) 과 같은 분산 하이퍼미디어 시스템을 위한 소프트웨어 아키텍처의 한 형식.
-- "웹에 존재하는 모든 자원 (이미지, 동영상, DB자원 등) 에 고유한 URI 을 부여해 활용" 하는 것으로, 자원을 정의하고 자원에 대한 주소를 지정하는 방법론을 의미한다.
+- "웹에 존재하는 모든 자원 (이미지, 동영상, DB자원 등) 에 고유한 `URI : Uniform Resource Idetifier` 를 부여해 활용" 하는 것으로, 자원을 정의하고 자원에 대한 주소를 지정하는 방법론을 의미한다.
 - 자원 기반의 구조 (**ROA**, Resource Oriented Architecture) **설계의 중심에 자원**이 있고, **HTTP Method 를 통해 자원을 처리**하도록 설계된 아키텍처
 <br><br><br><br>
 
@@ -12,7 +12,7 @@
 - Client 는 URI 를 이용해서 자원을 지정하고, 해당 자원의 상태(정보) 에 대한 조작을 Server 에 요청한다.
 
 ### 2. 행위 (Verb) : HTTP Method
-- Client 는 URI 을 이용해 자원을 지정 및 조작하기 위해 HTTP 프로토콜의 Method 를 사용한다.
+- Client 는 URI 를 이용해 자원을 지정 및 조작하기 위해 HTTP 프로토콜의 Method 를 사용한다.
 - HTTP 프로토콜은 `POST(Create)`, `GET(Read)`, `PUT(Update)`, `DELETE(Delete)` 등의 Method 를 제공한다.
 
 ### 3. 표현 (Representation)
