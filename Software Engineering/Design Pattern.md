@@ -66,7 +66,7 @@ class Info {
 ### MVC 의 단점
 - 설계시간이 오래 걸리고, 숙련된 개발자가 필요하다.
 - Model 과 View 사이의 의존성이 높다. View 와 Model 의 높은 의존성은 애플리케이션이 커질수록, 복잡하고 유지보수가 어렵게 만들 수 있다.
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 ## 3. MVVM 패턴 (Model - View - ViewModel)
 > MVC 패턴에서 Controller 가 ViewModel 로 바뀐 디자인 패턴. ViewModel 은 UI 단에 위치한다.
