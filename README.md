@@ -7,3 +7,4 @@
 - [TDD (Test-Driven Development)](https://github.com/sangwoo24/CS-Study/blob/main/Software%20Engineering/TDD.md)
 - [REST 와 RESTful API](https://github.com/sangwoo24/CS-Study/blob/main/Software%20Engineering/RestAPI.md)
 - [API 란?](https://github.com/sangwoo24/CS-Study/blob/main/Software%20Engineering/API.md)
+- [3rd Party [서드파티]](https://github.com/sangwoo24/CS-Study/blob/main/Software%20Engineering/3rd%20Party.md)
