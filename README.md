@@ -30,3 +30,9 @@
    - [Merge Sort](https://github.com/sangwoo24/CS-Study/blob/main/Sorting/Merge%20sort.py)
    - [Quick Sort](https://github.com/sangwoo24/CS-Study/blob/main/Sorting/Quick%20sort.py)
    - [Topology Sort](https://github.com/sangwoo24/CS-Study/blob/main/Sorting/Topology%20sort.py)
+<br>
+
+- ### [Search](https://github.com/sangwoo24/CS-Study/blob/main/Search/Search.md)
+  - [Binary Search](https://github.com/sangwoo24/CS-Study/blob/main/Search/Binary%20Search.py)
+  - [BFS](https://github.com/sangwoo24/CS-Study/blob/main/Search/BFS.py)
+  - [DFS](https://github.com/sangwoo24/CS-Study/blob/main/Search/DFS.py)
