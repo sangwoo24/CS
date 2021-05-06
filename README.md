@@ -22,3 +22,11 @@
 <br><br><br>
 
 ## Algorithm
+- ### [Sorting](https://github.com/sangwoo24/CS-Study/blob/main/Sorting/Sorting.md)
+   - [Bubble Sort](https://github.com/sangwoo24/CS-Study/blob/main/Sorting/Bubble%20sort.py)
+   - [Selection Sort](https://github.com/sangwoo24/CS-Study/blob/main/Sorting/Selection%20sort.py)
+   - [Insertion Sort](https://github.com/sangwoo24/CS-Study/blob/main/Sorting/Insertion%20sort.py)
+   - [Heap Sort](https://github.com/sangwoo24/CS-Study/blob/main/Sorting/Heap%20sort.py)
+   - [Merge Sort](https://github.com/sangwoo24/CS-Study/blob/main/Sorting/Merge%20sort.py)
+   - [Quick Sort](https://github.com/sangwoo24/CS-Study/blob/main/Sorting/Quick%20sort.py)
+   - [Topology Sort](https://github.com/sangwoo24/CS-Study/blob/main/Sorting/Topology%20sort.py)
