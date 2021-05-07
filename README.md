@@ -40,7 +40,7 @@
 ## Network
   - [HTTP 와 HTTPS](https://github.com/sangwoo24/CS-Study/blob/main/Network/HTTP%20와%20HTTPS.md)
   - [HTTP 의 GET 과 POST 비교](https://github.com/sangwoo24/CS-Study/blob/main/Network/HTTP%20GET%20과%20POST%20비교.md)
-  - TCP 와 UDP
-  - TCP 3-way-handshake
+  - [TCP 와 UDP](https://github.com/sangwoo24/CS-Study/blob/main/Network/TCP%20와%20UDP.md)
+  - [TCP 3 & 4 way handshake](https://github.com/sangwoo24/CS-Study/blob/main/Network/3-way%20handshake.md)
   - OSI 7 계층
   - 웹 동작방식
