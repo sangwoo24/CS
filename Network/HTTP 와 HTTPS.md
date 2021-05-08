@@ -1,9 +1,9 @@
-# HTTP
+# HTTP (Hyper Text Transfer Protocol)
 ```
-HTTP는 클라이언트와 서버 사이에 이루어지는 요청/응답(request/response) 프로토콜. 
+서버/클라이언트 모델을 따라 데이터를 주고 받기 위한 프로토콜. HTTP 는 애플리케이션 레벨로 TCP/IP 위에서 작동한다.
+상태를 가지고 있지 않는 Stateless 프로토콜이며 Method, Path, Version, Headers, Body 등으로 구성된다.
 ```
-<br>
-클라이언트인 웹 브라우저가 HTTP를 통하여 서버로부터 웹페이지(HTML)나 그림 정보를 요청하면, 서버는 이 요청에 응답하여 필요한 정보를 해당 사용자에게 전달하게 된다. 이 정보가 모니터와 같은 출력 장치를 통해 사용자에게 나타나는 것이다.
+![](https://images.velog.io/images/sangwoo24/post/5ac121e4-9ca2-4de0-886c-ec608105213f/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202021-05-08%20%EC%98%A4%ED%9B%84%2011.57.12.png)
 <br><br>
 
 ## HTTP 의 문제점
