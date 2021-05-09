@@ -46,3 +46,4 @@
   - [TCP 3 & 4 way handshake](https://github.com/sangwoo24/CS-Study/blob/main/Network/3-way%20handshake.md)
   - [OSI 7 계층](https://github.com/sangwoo24/CS-Study/blob/main/Network/OSI%207%20계층.md)
   - [웹 동작방식](https://github.com/sangwoo24/CS-Study/blob/main/Network/웹%20동작방식.md)
+  - 쿠키와 세션
