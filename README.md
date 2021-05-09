@@ -9,8 +9,8 @@
 - [API 란?](https://github.com/sangwoo24/CS-Study/blob/main/Software%20Engineering/API.md)
 - [3rd Party [서드파티]](https://github.com/sangwoo24/CS-Study/blob/main/Software%20Engineering/3rd%20Party.md)
 - [디자인 패턴 [싱글톤, MVC, MVVM]](https://github.com/sangwoo24/CS-Study/blob/main/Software%20Engineering/Design%20Pattern.md)
-- Call By Value 와 Call By Reference
-- 동기와 비동기의 차이
+- [Call By Value 와 Call By Reference](https://github.com/sangwoo24/CS-Study/blob/main/Software%20Engineering/Call%20by%20value%20%26%20call%20by%20reference.md)
+- [동기와 비동기](https://github.com/sangwoo24/CS-Study/blob/main/Software%20Engineering/동기와%20비동기.md)
 <br><br><br>
 
 ## Data Structure
