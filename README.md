@@ -11,7 +11,7 @@
 - [디자인 패턴 [싱글톤, MVC, MVVM]](https://github.com/sangwoo24/CS-Study/blob/main/Software%20Engineering/Design%20Pattern.md)
 - [Call By Value 와 Call By Reference](https://github.com/sangwoo24/CS-Study/blob/main/Software%20Engineering/Call%20by%20value%20%26%20call%20by%20reference.md)
 - [동기와 비동기](https://github.com/sangwoo24/CS-Study/blob/main/Software%20Engineering/동기와%20비동기.md)
-- 메모리 구조
+- [메모리 구조](https://github.com/sangwoo24/CS-Study/blob/main/Software%20Engineering/메모리%20구조.md)
 <br><br><br>
 
 ## Data Structure
@@ -47,4 +47,4 @@
   - [TCP 3 & 4 way handshake](https://github.com/sangwoo24/CS-Study/blob/main/Network/3-way%20handshake.md)
   - [OSI 7 계층](https://github.com/sangwoo24/CS-Study/blob/main/Network/OSI%207%20계층.md)
   - [웹 동작방식](https://github.com/sangwoo24/CS-Study/blob/main/Network/웹%20동작방식.md)
-  - 쿠키와 세션
+  - [쿠키와 세션](https://github.com/sangwoo24/CS-Study/blob/main/Network/Cookie%20와%20Session.md)
