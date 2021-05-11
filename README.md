@@ -12,7 +12,7 @@
 - [Call By Value 와 Call By Reference](https://github.com/sangwoo24/CS-Study/blob/main/Software%20Engineering/Call%20by%20value%20%26%20call%20by%20reference.md)
 - [동기와 비동기](https://github.com/sangwoo24/CS-Study/blob/main/Software%20Engineering/동기와%20비동기.md)
 - [메모리 구조](https://github.com/sangwoo24/CS-Study/blob/main/Software%20Engineering/메모리%20구조.md)
-- 프레임워크와 라이브러리
+- [프레임워크와 라이브러리](https://github.com/sangwoo24/CS-Study/edit/main/Software%20Engineering/프레임워크와%20라이브러리.md)
 - Git
 <br><br><br>
 
