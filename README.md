@@ -13,8 +13,7 @@
 - [동기와 비동기](https://github.com/sangwoo24/CS-Study/blob/main/Software%20Engineering/동기와%20비동기.md)
 - [메모리 구조](https://github.com/sangwoo24/CS-Study/blob/main/Software%20Engineering/메모리%20구조.md)
 - [프레임워크와 라이브러리](https://github.com/sangwoo24/CS-Study/edit/main/Software%20Engineering/프레임워크와%20라이브러리.md)
-- 오버로딩와 오버라이딩
-- Git
+- [오버로딩와 오버라이딩](https://github.com/sangwoo24/CS-Study/blob/main/Software%20Engineering/오버로딩과%20오버라이딩.md)
 <br><br><br>
 
 ## Data Structure
@@ -51,4 +50,4 @@
   - [OSI 7 계층](https://github.com/sangwoo24/CS-Study/blob/main/Network/OSI%207%20계층.md)
   - [웹 동작방식](https://github.com/sangwoo24/CS-Study/blob/main/Network/웹%20동작방식.md)
   - [쿠키와 세션](https://github.com/sangwoo24/CS-Study/blob/main/Network/Cookie%20와%20Session.md)
-  - 공개키 & 대칭키
+  - [공개키 & 대칭키](https://github.com/sangwoo24/CS-Study/blob/main/Network/공개키%20%26%20대칭키.md)
