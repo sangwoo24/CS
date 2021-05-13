@@ -51,3 +51,9 @@
   - [웹 동작방식](https://github.com/sangwoo24/CS-Study/blob/main/Network/웹%20동작방식.md)
   - [쿠키와 세션](https://github.com/sangwoo24/CS-Study/blob/main/Network/Cookie%20와%20Session.md)
   - [공개키 & 대칭키](https://github.com/sangwoo24/CS-Study/blob/main/Network/공개키%20%26%20대칭키.md)
+<br><br><br>
+
+## Operating System
+- 운영체제란?
+- 프로세스와 스레드
+- 멀티프로세스와 멀티스레드
