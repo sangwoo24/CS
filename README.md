@@ -55,8 +55,8 @@
 
 ## Operating System
 - [운영체제란?](https://github.com/sangwoo24/CS-Study/blob/main/Operating%20System/운영체제란.md)
-- Byte Ordering
+- [Byte Ordering](https://github.com/sangwoo24/CS-Study/blob/main/Operating%20System/Byte%20Ordering.md)
 - [프로세스와 스레드](https://github.com/sangwoo24/CS-Study/blob/main/Operating%20System/프로세스와%20스레드.md)
 - [멀티프로세스와 멀티스레드](https://github.com/sangwoo24/CS-Study/blob/main/Operating%20System/멀티프로세스와%20멀티스레드.md)
-- 스케줄러와 프로세스 상태
-- CPU 스케줄링
+- [스케줄러와 프로세스 상태](https://github.com/sangwoo24/CS-Study/blob/main/Operating%20System/스케줄러와%20프로세스%20상태.md)
+- [CPU 스케줄링](https://github.com/sangwoo24/CS-Study/blob/main/Operating%20System/CPU%20스케줄링.md)
