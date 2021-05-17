@@ -61,3 +61,4 @@
 - [스케줄러와 프로세스 상태](https://github.com/sangwoo24/CS-Study/blob/main/Operating%20System/스케줄러와%20프로세스%20상태.md)
 - [CPU 스케줄링](https://github.com/sangwoo24/CS-Study/blob/main/Operating%20System/CPU%20스케줄링.md)
 - 프로세스 & 스레드 동기화
+- 교착상태
