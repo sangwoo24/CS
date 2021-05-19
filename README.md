@@ -64,3 +64,6 @@
 - [교착상태](https://github.com/sangwoo24/CS-Study/blob/main/Operating%20System/교착상태.md)
 - [캐시의 지역성](https://github.com/sangwoo24/CS-Study/blob/main/Operating%20System/캐시의%20지역성.md)
 - [레이스 컨디션](https://github.com/sangwoo24/CS-Study/blob/main/Operating%20System/레이스%20컨디션.md)
+- 페이징과 세그멘테이션
+- 가상 메모리
+- 페이지 교체 알고리즘
