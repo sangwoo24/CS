@@ -62,3 +62,5 @@
 - [CPU 스케줄링](https://github.com/sangwoo24/CS-Study/blob/main/Operating%20System/CPU%20스케줄링.md)
 - [프로세스 & 스레드 동기화](https://github.com/sangwoo24/CS-Study/blob/main/Operating%20System/프로세스%20%26%20스레드%20동기화.md)
 - [교착상태](https://github.com/sangwoo24/CS-Study/blob/main/Operating%20System/교착상태.md)
+- [캐시의 지역성](https://github.com/sangwoo24/CS-Study/blob/main/Operating%20System/캐시의%20지역성.md)
+- [레이스 컨디션](https://github.com/sangwoo24/CS-Study/blob/main/Operating%20System/레이스%20컨디션.md)
