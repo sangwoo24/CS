@@ -66,4 +66,4 @@
 - [레이스 컨디션](https://github.com/sangwoo24/CS-Study/blob/main/Operating%20System/레이스%20컨디션.md)
 - [페이징과 세그멘테이션](https://github.com/sangwoo24/CS-Study/blob/main/Operating%20System/페이징과%20세그멘테이션.md)
 - [가상 메모리](https://github.com/sangwoo24/CS-Study/blob/main/Operating%20System/가상메모리.md)
-- 페이지 교체 알고리즘
+- [페이지 교체 알고리즘]()
