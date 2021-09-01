@@ -49,6 +49,7 @@
   - [TCP 와 UDP](https://github.com/sangwoo24/CS-Study/blob/main/Network/TCP%20와%20UDP.md)
   - [TCP 3 & 4 way handshake](https://github.com/sangwoo24/CS-Study/blob/main/Network/3-way%20handshake.md)
   - [OSI 7 계층](https://github.com/sangwoo24/CS-Study/blob/main/Network/OSI%207%20계층.md)
+  - [IPv4 와 IPv6](https://github.com/sangwoo24/CS-Study/blob/main/Network/IPv4%20%EC%99%80%20IPv6.md)
   - [웹 동작방식](https://github.com/sangwoo24/CS-Study/blob/main/Network/웹%20동작방식.md)
   - [쿠키와 세션](https://github.com/sangwoo24/CS-Study/blob/main/Network/Cookie%20와%20Session.md)
   - [공개키 & 대칭키](https://github.com/sangwoo24/CS-Study/blob/main/Network/공개키%20%26%20대칭키.md)
