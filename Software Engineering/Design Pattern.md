@@ -119,4 +119,5 @@ class Info {
 5. view 는 presenter 에게 받은 데이터를 이용하여 화면을 나타냄
 
 <br>
+
 > view 와 model 의 의존성을 없앴지만, view 와 presenter 사이의 의존성이 강해짐.
