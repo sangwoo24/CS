@@ -62,6 +62,7 @@ class Info {
 - 유연하고 확장하기 쉽다.
 - 디자이너와 개발자의 협업이 용이하다.
 - 유지보수 비용을 절감할 수 있다.
+<br>
 
 ### MVC 의 단점
 - 설계시간이 오래 걸리고, 숙련된 개발자가 필요하다.
@@ -75,7 +76,7 @@ class Info {
 ![](https://images.velog.io/images/sangwoo24/post/affe77c2-48be-4503-972a-299eef414c02/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202021-05-03%20%EC%98%A4%ED%9B%84%207.23.50.png)
 <br><br><br>
 
-#### ViewModel
+### ViewModel
 - View 와 Model 사이의 인터페이스 역활을 한다.
 - View 와는 Binding, Command 로 연결하고, Model 과는 데이터를 주고 받는 역할을 한다.
 <br>
@@ -94,3 +95,28 @@ class Info {
 
 ### MVVM의 단점
 - View Model 의 설계가 어렵다.
+<br><br><br><br><br><br>
+
+## 4. MVP 패턴 (Model - View - Presenter)
+
+> model 과 view 는 MVC 와 동일하며, controller 대신 presenter 가 존재. 
+
+<br>
+<div align = center>
+<img src = "https://user-images.githubusercontent.com/56511253/138864050-bdb458c0-10ec-458e-a24b-989a47c4e64c.png">
+</div><br>
+
+### Presenter
+- view에서 요청한 정보로 model 을 가공하여 view에 전달해주는 부분.
+<br><br>
+
+### Flow
+
+1. action 은 view 를 통해 들어옴
+2. view 는 presenter 에게 데이터를 요청
+3. presenter 는 model 에게 데이터를 요청 및 model 이 응답
+4. presenter 는 view 에게 응답
+5. view 는 presenter 에게 받은 데이터를 이용하여 화면을 나타냄
+
+<br>
+> view 와 model 의 의존성을 없앴지만, view 와 presenter 사이의 의존성이 강해짐.
