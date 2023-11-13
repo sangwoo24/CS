@@ -9,30 +9,6 @@
 
 - [`디자인 패턴`]()
 
-<br> 
-
-### 🧱 자료 구조
-- [`Stack`](https://github.com/sangwoo24/CS-Study/blob/main/Data%20Structure/1.%20Stack/Stack.md)
-
-- [`Queue`](https://github.com/sangwoo24/CS-Study/blob/main/Data%20Structure/2.%20Queue/Queue.md)
-
-- [`Linked List`](https://github.com/sangwoo24/CS-Study/blob/main/Data%20Structure/3.%20Linked%20List/Linked%20List.md)
-
-- [`Heap`](https://github.com/sangwoo24/CS-Study/blob/main/Data%20Structure/4.%20Heap/Heap.md)
-
-- [`Hash`](https://github.com/sangwoo24/CS-Study/blob/main/Data%20Structure/5.%20Hash%20Table/Hash%20Table.md)
-
-- [`Tree`](https://github.com/sangwoo24/CS-Study/blob/main/Data%20Structure/6.%20Tree/Tree.md)
-
-- [`Graph`](https://github.com/sangwoo24/CS-Study/blob/main/Data%20Structure/7.%20Graph/Graph.md)
-
-<br>
-
-### 🧬 알고리즘
-- [`Sorting`](https://github.com/sangwoo24/CS-Study/blob/main/Sorting/Sorting.md)
-
-- [`Search`](https://github.com/sangwoo24/CS-Study/blob/main/Search/Search.md)
-
 <br>
 
 ### 🌐 Network
@@ -52,7 +28,7 @@
 
 <br>
 
-### 📟 Operating System
+### 📟 OS
 - [`운영체제`](https://github.com/sangwoo24/CS-Study/blob/main/Operating%20System/운영체제란.md)
 
 - [`프로세스와 스레드`](https://github.com/sangwoo24/CS-Study/blob/main/Operating%20System/프로세스와%20스레드.md)
@@ -64,3 +40,8 @@
 - [`프로세스, 스레드 동기화`](https://github.com/sangwoo24/CS-Study/blob/main/Operating%20System/프로세스%20%26%20스레드%20동기화.md)
 
 - [`교착상태`](https://github.com/sangwoo24/CS-Study/blob/main/Operating%20System/교착상태.md)
+
+<br>
+
+### Mobile
+- [`DeepLink`]()
