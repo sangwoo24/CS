@@ -20,7 +20,7 @@ iOS에서는 Scheme가 중복될 시 가장 마지막에 설치한 앱이 열리
 ### Universal Link, App Link
 URI Scheme 방식의 한계점을 보완하기 위해 출시한 딥링크 방식이며, 웹에서 사용하는 도메인 주소를 딥링크 실행 값으로 사용하는 방식이다.
 
-스마트폰 브라우저 주소창에 http://naver.com을 입력하면 네이버 앱이 바로 오픈되는 것과 같은 기능. 스마트폰에 앱이 설치되어있지 않다면, 브라우저에서 도메인 주소에 해당하는 웹페이지가 열린다. App의 고유한 도메인 주소를 사용할 수 있지만, 모든 환경에서 딥링크가 동작하는 것이 아니기 때문에 URL Scheme 방식과 같이 사용해야 한다. [링크 테스트 결과](https://help.dfinery.io/hc/ko/articles/360039757433-%EB%94%A5%EB%A7%81%ED%81%AC-Deeplink-URI%EC%8A%A4%ED%82%B4-%EC%9C%A0%EB%8B%88%EB%B2%84%EC%85%9C-%EB%A7%81%ED%81%AC-%EC%95%B1%EB%A7%81%ED%81%AC-%EA%B5%AC%EB%B6%84%EA%B3%BC-%EC%9D%B4%ED%95%B4#toc7)
+스마트폰 브라우저 주소창에 [http://naver.com](http://naver.com)을 입력하면 네이버 앱이 바로 오픈되는 것과 같은 기능. 스마트폰에 앱이 설치되어있지 않다면, 브라우저에서 도메인 주소에 해당하는 웹페이지가 열린다. App의 고유한 도메인 주소를 사용할 수 있지만, 모든 환경에서 딥링크가 동작하는 것이 아니기 때문에 URL Scheme 방식과 같이 사용해야 한다. [링크 테스트 결과](https://help.dfinery.io/hc/ko/articles/360039757433-%EB%94%A5%EB%A7%81%ED%81%AC-Deeplink-URI%EC%8A%A4%ED%82%B4-%EC%9C%A0%EB%8B%88%EB%B2%84%EC%85%9C-%EB%A7%81%ED%81%AC-%EC%95%B1%EB%A7%81%ED%81%AC-%EA%B5%AC%EB%B6%84%EA%B3%BC-%EC%9D%B4%ED%95%B4#toc7)
 
 <br><br>
 
